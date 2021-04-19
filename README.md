@@ -17,4 +17,4 @@ Como testar o checkpoint:
 
 5- Pagina cadastrar: Cadastre o usuaio
 
-6- Pagina Lista: Visualize os usuarios cadastrados
+6- Pagina Lista: Visualize os usuarios cadastrados# cp_FIAP_javaDbe_parcial
